@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011073976747",
+    "project_id": "azalea-fb23b",
+    "storage_bucket": "azalea-fb23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011073976747:android:1550d72a8f4c9dd6706aee",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRpXnxafD614He-IsOxSCQ8ou8awWS6dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
